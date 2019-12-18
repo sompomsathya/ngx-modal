@@ -1,5 +1,5 @@
 {
-  "name": "@sompom/ngx-modal-8",
+  "name": "@sompom/ngx-modal",
   "version": "0.0.29",
   "description": "Open modal window (dialog box) for your angular8 applications using bootstrap3.",
   "license": "MIT",
