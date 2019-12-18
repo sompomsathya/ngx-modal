@@ -1,24 +1,23 @@
 {
-  "name": "ngx-modal",
+  "name": "@sompom/ngx-modal",
   "version": "0.0.29",
-  "description": "Open modal window (dialog box) for your angular2 applications using bootstrap3.",
+  "description": "Open modal window (dialog box) for your angular8 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "private": true,
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "Sompom Sathya",
+    "email": "monysathya.suos@sompom.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-modal.git"
+    "url": "https://github.com/sompomsathya/ngx-modal.git"
   },
   "bugs": {
-    "url": "https://github.com/pleerock/ngx-modal/issues"
+    "url": "https://github.com/sompomsathya/ngx-modal/issues"
   },
   "tags": [
     "modal",
-    "angular2",
+    "angular8",
     "typescript",
     "angular2-modal"
   ],
